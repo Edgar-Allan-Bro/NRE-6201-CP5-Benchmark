@@ -1,0 +1,11 @@
+ 3D Bare Takeda Reactor Criticality Search
+ 
+ keff is   1.0001112
+ 
+ Total number of inner iterations = 3026
+ 
+ Total number of outer iterations = 503
+ 
+ Peak flux with total 1/8th reactor power of 125 KW =   6.2888681E+12 n/cm^2
+ 
+ Peak to Average Power =   3.0366480
