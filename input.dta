@@ -1,0 +1,49 @@
+All macroscopic cross sections in cm^-1
+Fuel Material, Group 1
+sigma absorption
+8.5271E-03
+nusigmaf
+9.0932E-03
+sigma total
+2.2378E-01
+in group scatter cross section (1-->1)
+1.9242E-01
+Chi
+1.00
+Fuel Material, Group 2
+sigma absorption
+1.5820E-01
+nusigmaf
+2.9018E-01
+sigma total
+1.0386E+00
+In group scatter cross section (2-->2)
+8.8044E-01
+Scatter cross section into group 2 (1-->2)
+2.2825E-02
+chi
+0.00
+Abar value for Fuel Material
+10.1
+albedo factor on the left
+0.0
+albedo factor on the right
+0.0
+albedo factor on the top
+0.0
+albedo factor on the bottom
+0.0
+albedo factor on the upper
+0.0
+albedo factor on the lower
+0.0
+length of the reactor in the x direction (cm)
+45.50
+length of the reactor in the y direction (cm)
+45.50
+length of the reactor in the z direction (cm)
+45.50
+nubar for the fast group in the fuel
+2.5
+nubar for the thermal group in the fuel
+2.43
